@@ -17,6 +17,7 @@ export const Master = () => {
               <Outlet />
             </div>
           </main>
+          
           <Footer />
         </div>
       </div>
